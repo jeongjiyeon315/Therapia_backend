@@ -1,6 +1,6 @@
 # Therapia_backend
 
-![슬라이드2](https://user-images.githubusercontent.com/63544044/206661157-9d42451f-c1e2-4e9d-ad16-b14f24b99873.JPG)
+![슬라이드2](https://user-images.githubusercontent.com/63544044/206661157-9d42451f-c1e2-4e9d-ad16-b14f24b99873.JPG)  
 [테라피아 스토리보드](https://github.com/jeongjiyeon315/Therapia_backend/blob/main/%EC%82%AC%EC%97%B0%20%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4%20-THERAPIA.pdf)
 --------------------------------------------
 ### 개발 배경   
