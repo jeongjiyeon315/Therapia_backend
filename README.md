@@ -1,6 +1,6 @@
 # Therapia_backend
 
-![슬라이드2](https://user-images.githubusercontent.com/63544044/206661157-9d42451f-c1e2-4e9d-ad16-b14f24b99873.JPG)  
+![슬라이드2](https://user-images.githubusercontent.com/63544044/206661157-9d42451f-c1e2-4e9d-ad16-b14f24b99873.JPG)
 [테라피아 스토리보드](https://github.com/jeongjiyeon315/Therapia_backend/blob/main/%EC%82%AC%EC%97%B0%20%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4%20-THERAPIA.pdf)
 --------------------------------------------
 ### 개발 배경   
@@ -25,13 +25,12 @@
 1. 농림축산식품 공공데이터 포털 - [텃밭 분양 상세정보](https://data.mafra.go.kr/opendata/data/indexOpenDataDetail.do?data_id=20171122000000000916) (오픈 API 활용해 XML/JSON 포맷으로 데이터 획득)
 2. 공공데이터포털 - [서울시 주말농장 현황](https://www.data.go.kr/data/15047308/fileData.do)(Excel 데이터를 활용해 데이터 획득 후 파이썬을 이용해 알맞게 가공)
 3. 공공데이터포털 – [농촌진흥청_치유농장](https://www.data.go.kr/data/15081306/openapi.do) (오픈 API를 활용해 AJAX 방식으로 치유농장 데이터를 획득)
----------------------------------------
+
+----------------------------------------------------------------------------
 ### Therapia API 문서
-https://jeongjiyeon315.notion.site/API-02168d25316644f89af3bda19b9624b8
----------------------------------------
+[API문서](https://jeongjiyeon315.notion.site/API-02168d25316644f89af3bda19b9624b8)
 ### Therapia ERD
-![테라피아ERD](https://user-images.githubusercontent.com/63544044/172849734-612d9abb-6388-4c4b-a7ac-4e56ce3b3819.png)
----------------------------------------
+![테라피아ERD](https://user-images.githubusercontent.com/63544044/172849734-612d9abb-6388-4c4b-a7ac-4e56ce3b3819.png)  
 |커밋|컨벤션|
 |-----|-----|
 |Feat : |기능 추가|
